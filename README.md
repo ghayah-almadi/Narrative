@@ -12,8 +12,11 @@ anyone can use the app to document their lives in privet
 
 # some of the Technologies & Tools used to build Narrative;
 coredata
+
 photopicker
+
 swift voiceover accessibility
+
 localisation (eng-arb)
 
 
